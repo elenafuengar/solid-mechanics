@@ -1,0 +1,10 @@
+Nodo 1 : dX = -0.000 mm dY = -0.000 mm
+Nodo 2 : dX = 0.000 mm dY = -0.000 mm
+Nodo 3 : dX = -0.307 mm dY = -0.436 mm
+Nodo 4 : dX = -0.194 mm dY = 0.065 mm
+Nodo 5 : dX = -1.049 mm dY = -0.887 mm
+Nodo 6 : dX = -0.951 mm dY = 0.113 mm
+Nodo 7 : dX = -2.303 mm dY = -1.338 mm
+Nodo 8 : dX = -2.198 mm dY = 0.162 mm
+Nodo 9 : dX = -4.029 mm dY = -1.782 mm
+Nodo 10 : dX = -3.973 mm dY = 0.219 mm
